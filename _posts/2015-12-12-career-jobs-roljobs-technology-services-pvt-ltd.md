@@ -17,8 +17,8 @@ keywords:
   - technology
   - association
 description: ''
-datePublished: '2015-12-12T08:46:20.559Z'
-dateModified: '2015-12-12T08:45:53.217Z'
+datePublished: '2015-12-12T08:49:41.749Z'
+dateModified: '2015-12-12T08:49:33.866Z'
 author: []
 related: []
 app_links: []
@@ -35,4 +35,10 @@ _context: 'http://schema.org'
 _type: MediaObject
 
 ---
-want to Start Career in Roljobs Technology Services Private Limited
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/d767f091-cc0e-428d-a407-0ea247b6f686.jpg)
+
+****
+
+> **want to Start Career in Roljobs Technology Services Private Limited**
+
+Roljobs Technology Services Pvt Ltd (Roland And Associates), is a 13 year old Personnel Sourcing firm catering to Global MNC's across USA, EMEA and APAC.
