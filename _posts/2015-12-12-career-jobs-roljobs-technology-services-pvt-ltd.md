@@ -1,11 +1,10 @@
 ---
-author: []
-related: []
-publisher:
-  name: Roljobs Technology Services Pvt Ltd
-  domain: roljobs.recruitee.com
-  url: 'https://roljobs.recruitee.com'
-  favicon: 'https://roljobs.recruitee.com/images/favicon.ico'
+inFeed: true
+hasPage: false
+inNav: false
+isBasedOnUrl: 'https://roljobs.recruitee.com/'
+inLanguage: en
+starred: false
 keywords:
   - nasscom
   - roljobs
@@ -18,21 +17,22 @@ keywords:
   - technology
   - association
 description: ''
-inLanguage: en
+datePublished: '2015-12-12T08:46:20.559Z'
+dateModified: '2015-12-12T08:45:53.217Z'
+author: []
+related: []
 app_links: []
-isBasedOnUrl: 'https://roljobs.recruitee.com/'
 title: Career - Jobs - Roljobs Technology Services Pvt Ltd
-datePublished: '2015-12-12T08:38:34.672Z'
-dateModified: '2015-12-12T08:35:11.292Z'
 sourcePath: _posts/2015-12-12-career-jobs-roljobs-technology-services-pvt-ltd.md
 published: true
-inFeed: true
-hasPage: false
-inNav: false
-starred: false
 authors: []
+publisher:
+  name: Roljobs Technology Services Pvt Ltd
+  domain: roljobs.recruitee.com
+  url: 'https://roljobs.recruitee.com'
+  favicon: 'https://roljobs.recruitee.com/images/favicon.ico'
 _context: 'http://schema.org'
 _type: MediaObject
 
 ---
-<article style=""><h1>Career - Jobs - Roljobs Technology Services Pvt Ltd</h1><p></p><img src="https://recruitee.com/assets/share_image.png" /></article>
+want to Start Career in Roljobs Technology Services Private Limited
