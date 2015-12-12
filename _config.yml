@@ -1,6 +1,6 @@
 name: Roljobs Technology Services Private Limited
 favicon: null
-layout_spectrum: 0.88917
+layout_spectrum: 0.88022
 typography_spectrum: 0.98956
 title: Roljobs Technology Services Private Limited
 cta:
@@ -17,13 +17,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#B8B42D'
-    - '#697A21'
-    - '#FFFCE8'
-    - '#3E363F'
-    - '#DD403A'
-  brandStrength: 0.46972227096557617
+    - '#4a2c13'
+    - '#150d15'
+    - '#003e60'
+    - '#292636'
+    - '#faf8fd'
+  brandStrength: 0.625
   lightness: 0.625
-  saturation: 0.5
-  rhythmicContrast: 0.03641212196089327
+  saturation: 0.4375
+  rhythmicContrast: 0.25
 purpose: []
