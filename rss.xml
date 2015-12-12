@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Roljobs Technology Services Private Limited]]></title>
+        <description><![CDATA[Roljobs Technology Services Private Limited]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Sat, 12 Dec 2015 08:26:34 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[About us]]></title>
+            <description><![CDATA[<article><h1>About us</h1><p>Roljobs Technology Services Pvt Ltd (Roland And Associates), is a 13 year old Personnel Sourcing firm catering to Global MNC's across USA, EMEA and APAC. </p></article>]]></description>
+            <link>undefinedabout-us/index.html</link>
+            <guid isPermaLink="false">d7743b9a-396b-4db5-827f-80699449376c</guid>
+            <pubDate>Sat, 12 Dec 2015 08:26:24 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
