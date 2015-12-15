@@ -17,8 +17,8 @@ keywords:
   - technology
   - association
 description: ''
-datePublished: '2015-12-12T08:49:41.749Z'
-dateModified: '2015-12-12T08:49:33.866Z'
+datePublished: '2015-12-15T05:44:43.161Z'
+dateModified: '2015-12-14T13:09:35.798Z'
 author: []
 related: []
 app_links: []
@@ -35,7 +35,7 @@ _context: 'http://schema.org'
 _type: MediaObject
 
 ---
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/d767f091-cc0e-428d-a407-0ea247b6f686.jpg)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/a053ca6eb9bcd839170c1ab2b8957913caf40920.jpg)
 
 ****
 
